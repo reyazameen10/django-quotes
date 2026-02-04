@@ -11,9 +11,9 @@
     <h1>Quote of the Day</h1>
 
     <nav>
-        <a href="/">Home</a> |
-        <a href="/show_all/">Show All</a> |
-        <a href="/about/">About</a>
+        <a href="{% url 'quote' %}">Home</a> |
+        <a href="{% url 'show_all' %}">Show All</a> |
+        <a href="{% url 'about' %}">About</a>
     </nav>
 
     <hr>
