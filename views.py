@@ -11,8 +11,8 @@ QUOTES = [
 # USE DIRECT IMAGE FILES (NOT Wikipedia pages)
 IMAGES = [
     "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/8/86/Einstein_tongue.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/5/54/Einstein_1921_portrait2.jpg"
+    "https://img.goodfon.com/original/2560x1600/5/5f/albert-einstein-albert-6866.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACzE5HV0kLGapGGZUqWGAkzPwmVGPJc6oRg&s"
 ]
 
 def quote(request):
