@@ -1,6 +1,6 @@
 # Django Quotes
 
-A Django web app for browsing and managing inspirational quotes. Built as part of CS412 at Boston University.
+A web app for browsing and managing inspirational quotes. Built as part of my CS412 Full Stack class @ Boston University.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
